@@ -11,4 +11,4 @@ This is an assignment we were tasked to complete in our Operating Systems class.
 
 ### AudiobookProject
 
-This is a project I created for research purposes.  The code in the folder creates a mac application that is an interactive audiobook.
+This is a project I created for research purposes.  The code in the folder creates a mac application that is an interactive audiobook.  The code can be found in another repo: https://github.com/MarcusJRLee/audiobook
